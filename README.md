@@ -14,7 +14,7 @@ python hack.py
 
 # pkg can Use Victim email Or Facebook Profile Id:
 
-# Brute Force On Facebook Account Without proxy:
+ Brute Force On Facebook Account Without proxy:
 
 Command: python hack.py -t victim@gmail.com -w 10MPASS.txt
 Brute Force On Facebook Account With Proxy:
